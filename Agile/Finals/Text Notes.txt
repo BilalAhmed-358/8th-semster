@@ -1,0 +1,149 @@
+Introduction to story
+User story
+Whatever are the requirements we note it down in terms of easy words as possible 
+Here user role can also come
+For example. 
+I.n.v.e.s.t ( a good way to write user story)
+I (independent)
+N (negotiable) - subject to change, any offer should be negotiable 
+V (value) - user story should be able to deliver value. For example remote desktop
+E (estimable) every user story should be able to estimate. 
+S (small) big module represent, there are epics 
+T (testiable) every user story should be able to be tested
+
+Moscow - here few words point to certain things
+M (must have) example teacher should mark attendance 
+S. (Should have) Example calling and sms would come in must have but then a person want Bluetooth it should come in should have
+C (could have) good to have
+W (won't have) low priority 
+
+Our final product would be decided in certain chunks. How do we know what task to perform first
+
+There is a prioritization technique that is called Moscow
+
+Sir showed us a video
+There is a company names struggle and co
+
+[Image 71.jpg]
+
+
+There are lot of works and workload, the company is struggling with that
+
+
+[Image 72.jpg]
+He is the performer, who takes full responsibility of his task and helps the organization tremendously
+
+
+[Image 73.jpg]
+He is the doer he helps but doesn't does much or able to help much. He is keen to help and learn.
+
+[Image 74.jpg]
+Ellecifector
+His contribution does  not make much difference 
+
+[Image 75.jpg]
+He is the puttential trouble source 
+If he is given guidance he is effectively performing else he 
+
+
+[Image 76.jpg]
+He if he is undetected is a very dangerous threat
+
+Differentiate between productive and destructive people 
+
+Sir played a Urdu english game 
+
+ 
+
+
+
+
+
+
+Relay race is  like water fall
+Untill one lap is not finished another can't start 
+
+Mukhalfin are the constrains
+
+Scrum is the most popular agile framework
+
+Scrum faces and process
+We just need to know how many are there
+
+
+
+
+Scrum values
+
+[Image 77.jpg]
+Focus ( we should focus on our goal) 
+Sacrifice for your goal and not your goal. 
+
+Openers 
+Imperisism transparency map to the value of the product 
+
+Commitment 
+Commited to a goal.
+
+Courage
+Point out right and wrong 
+
+
+
+Finals wont be easy so we need to study a little bit 
+
+
+
+[Image 78.jpg]
+Core roles 
+Non core roles
+
+
+Risk apetite : willingness to take risk
+Risk threshold: the amount of risk you are willing to take
+Risk takers those who take risk
+
+Risk muter: he is insensitive to risk
+
+
+Scrum is made up of scrum team
+There are two roles 
+Core role and non core role
+Core roles come in SDLC life cycle they are involved in development 
+Product sucess factor core 
+
+Non core roles it helps give boost 
+
+Office hr team is a non core but it's office party
+
+Non core roles are not mediator required for the team but interact with the team
+
+Core roles are mandatory required for the development of the product
+There are three core roles 
+Scrum master 
+Product owner 
+Scrum team 
+
+Who is the product owner 
+He is the super hero of the product
+Maximize the business value of the product 
+
+Responsible for articulating customer requirements 
+
+For requirement there are these four product
+Laborious - Laibour
+Protectected - thinking some particular time and then taking more time
+
+Articulation - product owner explain how it is to be explained 
+Anticipation - understand something before being talked to about that 
+
+
+Prioritization backlog
+Primusenterbaras 
+Respect is given of two respect. 
+1. Because of fear
+2. Respect due to personality 
+
+
+Scrum master 
+Servent leader
